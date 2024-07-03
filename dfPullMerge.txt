@@ -1,0 +1,9 @@
+The git pull command is used to fetch and download the content from a remote 
+reposistory and immediately update the local repository
+git pull is a combination of two separate commands, git fetch and git merge.
+git fetch retrieves the latest version of a branch from the remote repository,
+but it does not merge the changes with your local repository.
+git merge takes the change that were fetched and integrates them into the local
+repository.
+git merge is a command that is used to merge two branches together
+
